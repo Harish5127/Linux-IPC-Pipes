@@ -100,7 +100,8 @@ write(1, buff, n);
 ```
 ## OUTPUT
 
-![Screenshot 2025-05-17 151216](https://github.com/user-attachments/assets/b09597ba-1d4d-4450-b52c-b7236b7a4f2b)
+
+![Screenshot 2025-05-19 210245](https://github.com/user-attachments/assets/1c171478-7788-4619-81ff-dd0e868e1fce)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -196,7 +197,10 @@ void client() {
 
 ## OUTPUT
 
-![Screenshot 2025-05-17 152642](https://github.com/user-attachments/assets/794d270c-fc08-41f9-898a-b69a1ee2d6ae)
+
+![Screenshot 2025-05-19 210543](https://github.com/user-attachments/assets/2421f0c5-6322-45e3-ae85-fc727578b90d)
+
+
 
 # RESULT:
 The program is executed successfully.
